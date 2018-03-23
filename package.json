@@ -1,0 +1,23 @@
+{
+  "name": "sharp-images",
+  "version": "1.0.0",
+  "description": "sharp模块压缩图片demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/summer19940609/sharp-images.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/summer19940609/sharp-images/issues"
+  },
+  "homepage": "https://github.com/summer19940609/sharp-images#readme",
+  "dependencies": {
+    "sharp": "^0.20.1"
+  }
+}
